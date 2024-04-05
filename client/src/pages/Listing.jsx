@@ -110,7 +110,7 @@ export default function Listing() {
                 </p>
               )}
             </div>
-            <p className='text-slate-800'>
+            <p className='text-slate-800 line-clamp-3'>
               <span className='font-semibold text-black'>Description - </span>
               {listing.description}
             </p>
