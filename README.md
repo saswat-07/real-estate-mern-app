@@ -1,7 +1,7 @@
 ## Start the project
 
 ```
-git clone https.git
+git clone https://github.com/saswat-07/real-estate-mern-app.git
 ```
 - or download the zip 
 ## For Frontend
